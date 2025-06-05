@@ -24,7 +24,7 @@ main img {
 }
 
 main h1 {
-    font-size: 20px;
+    font-size: 21px;
     margin: 25px auto 10px auto;
     max-width: 250px;
     color: var(--cor-titulo);
@@ -32,7 +32,7 @@ main h1 {
 
 main p {
     font-size: 15px;
-    max-width: 25ch;
+    max-width: 250px;
     margin: 0 auto;
     color: var(--segunda-cor);
 }
